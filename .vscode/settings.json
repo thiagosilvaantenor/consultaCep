@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "a:\\estudos_e_cursos\\Extracurricular\\Alura\\2024\\Consumindo API_gravando arquivos_e_lidando_com_erros\\gson-2.10.1.jar"
+    ]
+}
